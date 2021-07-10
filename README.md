@@ -13,7 +13,7 @@
     <li>Java</li>
     <li>Java Spring</li>
     <li>C#.net</li>
-    <li>ASP.NET, ASP.NETCORE-MVC</li>
+    <li>ASP.NET, ASP.NETCORE</li>
     <li>Git</li>
     <li>JavaScript</li>
   </ul>
