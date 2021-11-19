@@ -8,7 +8,7 @@
     <li>📝 Resume</li>
   </ul>
   
-  <p><b>Languages and Tools:</b></p>
+  <p><b>Languages and Frameworks:</b></p>
   <ul>
     <li>Java</li>
     <li>Java Spring</li>
@@ -16,6 +16,8 @@
     <li>ASP.NET, ASP.NETCORE</li>
     <li>Git</li>
     <li>JavaScript</li>
+    <li>Django</li>
+    <li>node js</li>
   </ul>
   
   <img width="500px" align="right" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
