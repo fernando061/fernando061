@@ -3,7 +3,7 @@
 <p>Hi, I'm Fernando Rojo, Lead Software Developer 🚀.</p>
 <p><b>Talking about Personal Stuffs:</b></p>
   <ul>
-    <li>🌱 I’m currently learning Angular and React</li>
+    <li>🌱 I’m currently learning Fluter</li>
     <li>📫 How to reach me: rojofernando0424@gmail.com</li>
     <li>📝 Resume</li>
   </ul>
@@ -18,6 +18,8 @@
     <li>JavaScript</li>
     <li>Django</li>
     <li>node js</li>
+     <li>Angular td</li>
+     <li>React js y ts</li>
   </ul>
   
   <img width="500px" align="right" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
