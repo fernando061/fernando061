@@ -18,7 +18,7 @@
     <li>JavaScript</li>
     <li>Django</li>
     <li>node js</li>
-     <li>Angular td</li>
+     <li>Angular ts</li>
      <li>React js y ts</li>
   </ul>
   
