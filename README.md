@@ -20,6 +20,7 @@
     <li>node js</li>
      <li>Angular ts</li>
      <li>React js y ts</li>
+    <li>Next.js</li>
   </ul>
   
   <img width="500px" align="right" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
