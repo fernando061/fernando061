@@ -3,7 +3,7 @@
 <p>Hi, I'm Fernando Rojo, Lead Software Developer 🚀.</p>
 <p><b>Talking about Personal Stuffs:</b></p>
   <ul>
-    <li>🌱 I’m currently learning Fluter</li>
+    <li>🌱 I’m currently learning Fluter, design patterns and Software Architecture</li>
     <li>📫 How to reach me: rojofernando0424@gmail.com</li>
     <li>📝 Resume</li>
   </ul>
